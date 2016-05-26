@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DialogsDemos</string>
+    <string name="action_settings">Settings</string>
+    <array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </array>
+</resources>
